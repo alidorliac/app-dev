@@ -1,7 +1,7 @@
 # app-dev
 My first repository
 
-<img src="https://web.mcc.sterkinekor.com/media/posters/125/1080/46760bc5-6281-43d9-889b-6721c3a16e6a.jpeg" alt="F1: The Movie Poster" width="900" height="1272">
+<img src="https://web.mcc.sterkinekor.com/media/posters/125/1080/46760bc5-6281-43d9-889b-6721c3a16e6a.jpeg" alt="F1: The Movie Poster" width="500" height="800">
 
 ## F1: The Movie
 
